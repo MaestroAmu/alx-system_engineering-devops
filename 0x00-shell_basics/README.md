@@ -1,4 +1,4 @@
-hell, basics
+## 0x00. Shell, basics
 > A shell is a program that takes command from the keyboard and gives them to
 > the operating system to perform.
 > A terminal is a program that opens a window and lets you interact with the
@@ -24,4 +24,4 @@ hell, basics
 * `16-clean_emacs`- a script that deletes all files in the current working directory that end with the character `~`.
 * `17-tree`- a script that creates the directories `welcome/`, `welcome/to/` and `welcome/to/holberton` in the current directory.
 * `18-commas`- a command that lists all the files and directories of the current directory, separated by commas (`,`).
-* `holberton.mgc`- Create a magic file holberton.mgc that can be used with the command file to detect Holberton data files. Holberton data files always contain the string HOLBERTON at offset 0.
+* `school.mgc`- Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.

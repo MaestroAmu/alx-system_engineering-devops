@@ -1,6 +1,6 @@
 # Loops, conditions and parsing
 
-In this project, I began working on loops and conditionals statements in Bash.
+In this project, I began working loops and conditionals statements in Bash.
 
 ## Helper File
 
